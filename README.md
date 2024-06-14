@@ -1,2 +1,2 @@
-# autobl
+# auto
 avatar
